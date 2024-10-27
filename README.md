@@ -1,4 +1,4 @@
-# Alfido_Tech_Task-1_Zomato_Data_Analysis_by_Rahul_Wagh
+# Zomato Data Analysis
 
 ### **Description**  
 This project analyzes the Zomato restaurant dataset using various data analytics techniques. It aims to clean the data, explore key variables, and generate insights on restaurant trends and customer preferences. The process includes data preprocessing, exploratory data analysis (EDA), and data visualization to reveal patterns in ratings, votes, popular cuisines, and service options like online ordering and table booking.
